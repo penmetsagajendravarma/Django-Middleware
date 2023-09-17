@@ -11,14 +11,12 @@
 - 🔒 **Client-Side Encryption:** It utilizes the RSA encryption algorithm to perform client-side encryption of sensitive data.
 - 💻 **Middleware Implementation:** The project is implemented as Django Middleware, making it seamless to integrate with Django-based web applications.
 - 🌐 **Security Enhancement:** By encrypting data during transit, this project enhances security for important login/signup pages and sensitive information.
-- 📜 **Open-Source:** This project is open-source and available for contributions and collaboration.
 
 <h3 align="left">Key Features 🌟</h3>
 
 - 🚀 **Client-Side Encryption:** Automatically sends encryption JavaScript code to the client for on-the-fly data encryption.
 - 🛠️ **Middleware Integration:** Easy integration with Django-based web applications using middleware.
 - 🔐 **Data Security:** Ensures data is encrypted during transmission, preventing unauthorized tampering.
-- 📦 **Modular Design:** Well-structured codebase with a modular design for flexibility and customization.
 
 <h3 align="left">How it Works 🔍</h3>
 
@@ -26,16 +24,6 @@
 2. The client uses this code for encryption when submitting data on the form.
 3. Data is encrypted on the client-side before transmission, enhancing security.
 4. Middleware ensures this process is seamless within the Django Framework.
-
-<h3 align="left">Getting Started 🚀</h3>
-
-- 📦 **Installation:** Detailed installation instructions can be found in the [Documentation](#link-to-documentation).
-- 🌐 **Usage:** Refer to the [Usage Guide](#link-to-usage-guide) for integrating this middleware into your Django project.
-
-<h3 align="left">Contributing 🤝</h3>
-
-- 🤗 **Contributions:** Contributions are welcome! Feel free to open issues or submit pull requests.
-- 📄 **Code of Conduct:** Please review and adhere to our [Code of Conduct](#link-to-code-of-conduct).
 
 <h3 align="left">License 📝</h3>
 
