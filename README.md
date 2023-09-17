@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status: Active">
-  <img src="https://img.shields.io/github/license/your-username/data-tampering-prevention" alt="License: MIT">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/your-username/data-tampering-prevention" alt="License: MIT"></a>
 </p>
 
 <h3 align="left">Project Overview 🚀</h3>
